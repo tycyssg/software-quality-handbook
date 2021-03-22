@@ -9,3 +9,4 @@ Tasks to complete project and their order
 5.	Agree on how to review pull requests – Everyone
 6.	Research each topic for the handbook – specific to sections below
 7.	Start adding to repo based on what section we are working on using Gitflow process - Everyone
+8.	readme change
