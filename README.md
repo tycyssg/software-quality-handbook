@@ -42,3 +42,9 @@ staging server to make sure everything is working normally.
 
 If everything is ok on the staging server, the package is merged into master, then the deployment process is next, where
 the "package code" reaches the server from the master branch.
+
+
+#### References
+***
+[Why code reviews matter ](https://www.atlassian.com/agile/software-development/code-reviews)
+[Gabriel Cliseru - Senior QA](https://github.com/settlersxp) on [deindeal](https://www.deindeal.ch/)
