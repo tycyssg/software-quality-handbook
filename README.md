@@ -1,5 +1,5 @@
 ### Task estimation in Scrum
-####Intro
+#### Intro
 ***
 Task estimation is a team sport. Everyone (developers, designers, testers, management people) from 
 the team has to be involved, it is the key to succeed in one of the difficult aspects of the job.
@@ -38,7 +38,7 @@ by the developers and on top of that they add time for testing and bugs because 
 this kind of situations and at the end something close to the truth is given.
 
 
-####References
+#### References
 ***
 [Story points and estimation](https://www.atlassian.com/agile/project-management/estimation)
 
