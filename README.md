@@ -20,8 +20,8 @@ When you are estimating how long a task will take, people usually tend to inflat
 
 In most industries man hours is wide spread from retail to the IT industry, it uses an estimation of the work that can be completed by one person in an hour, they have their uses but have their big flaws to them too.
 
-#1) Not all tasks are easy to estimate precisely  
-#2) The level of experience is not considered when drawing up the estimations, if a much more junior dev completes a task before the given date the estimation is now invalid
+1. Not all tasks are easy to estimate precisely
+2. The level of experience is not considered when drawing up the estimations, if a much more junior dev completes a task before the given date the estimation is now invalid
 
 ## Why use story points
 
