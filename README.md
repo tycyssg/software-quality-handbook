@@ -56,7 +56,9 @@ When we review code, we should look at it as a process that can be continually i
 Maintain a professional tone and keep any comments constructive and related to the code; 'Play the ball, not the person'. Give comments that include suggestions rather than saying something like 'this is incorrect'. When reviewing, avoid having the mindset of it's wrong because it's not the way I would do it; instead try to review the code on whether it is correct.
 
 #### Reviewing new joiners code
-Do not change the standard process outlined in the 'How does it work?' section above but be mindful that the perosn may not be aware of the coding standards or may be not be totally up to speed with the codebase. The above section is never more important than when reviewing a new joiners code.
+Do not change the standard process outlined in the 'How does it work?' section above but be mindful that the person may
+not be aware of the coding standards or may be not be totally up to speed with the codebase. The above section is never
+more important than when reviewing a new joiners code.
 
 #### Your part as a Reviewee
 Don't take someone not approving your PR or suggesting changes as a personal attack. It's part of the process of software development and it helps everyone learn, improve, makes for a more open team culture and ensures quality code: 
