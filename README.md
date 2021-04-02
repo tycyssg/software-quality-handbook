@@ -5,7 +5,6 @@
 ## Benefits & Challenges Task Estimation
 
     Benefits
-    ---
         The advantages that can be leveraged through task estimation can laid out as follows :
         1. Allows an insight into the uncertainty of a project
         2. Allows the team to rejudge the project as they understand the project as time progresses reducing uncertainty
