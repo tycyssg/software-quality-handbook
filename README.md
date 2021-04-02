@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coding Standards
 
 Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
@@ -69,17 +69,7 @@ Some of the potential benefits that can be obtained include the following:
 
 ## References
 
-* [Code Formatting Guide](https://torquemag.io/2019/07/code-formatting-guide/)
-* [Java Style Guide](https://google.github.io/styleguide/javaguide.html#s4-formatting)
-* [Code Formatting Patterns](http://c2.com/ppr/formatting.html#6)
-* [Naming Conventions](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
-=======
 
-# Coding Standards
-
-## Formatting
-
-## Naming Conventions
 
 ## Version Control
 * For each new task, a feature branch should be checked out from the development branch.
@@ -131,4 +121,9 @@ ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS | Automation Panda | [Artic
 Gitflow Workflow | Atlassian | [Tutorial Link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20the%20release%20branch%20is,to%20both%20develop%20and%20master)
 
 
->>>>>>> coding-standards
+* [Code Formatting Guide](https://torquemag.io/2019/07/code-formatting-guide/)
+* [Java Style Guide](https://google.github.io/styleguide/javaguide.html#s4-formatting)
+* [Code Formatting Patterns](http://c2.com/ppr/formatting.html#6)
+* [Naming Conventions](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
+
+
