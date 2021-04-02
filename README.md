@@ -65,7 +65,7 @@ In sizing, the team does an analysis between the different stories for the proje
 
 [source: https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199](https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199)
 
-[source:](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
+[source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
 
 [source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning](http://www.agilebuddha.com/agile/agile-estimation-8-steps-to-successful-story-point-estimation/)
 
