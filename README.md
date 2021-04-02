@@ -1,16 +1,4 @@
 # software-quality-handbook
-Software Quality Assurance Assignment
-Project plan – 
-Tasks to complete project and their order
-1.	Add team members as collaborators on the repository – One person
-2.	Members fork repository – Everyone 
-3.	Clone repository to local machine – Everyone
-4.	Divide up sections – Everyone
-5.	Agree on how to review pull requests – Everyone
-6.	Research each topic for the handbook – specific to sections below
-7.	Start adding to repo based on what section we are working on using Gitflow process - Everyone
-8.	readme change
-
 # Coding Standards
 
 Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
@@ -31,7 +19,7 @@ It deserves attention and care.
 * Quick Readability: The reader should be able to understand the gross structure of the code in a glimpse. 
   The shapes made by blocks of text help you communicate the overall structure.
 
-* Detailed readability: The reader must be able to read lots of code in depth.
+* Detailed Readability: The reader must be able to read lots of code in depth.
 
 * Length: The number of lines must be minimized so that browsers can be as small as possible.
 
