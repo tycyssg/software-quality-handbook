@@ -1,5 +1,5 @@
 ### Code Reviews
-#### Into
+#### Intro
 ***
 
 Agile teams are self-organizing, with skill sets that span across the team.
@@ -46,9 +46,30 @@ normally.
 If everything is ok on the staging server, the package is merged into master, then the deployment process is next, where
 the "package code" is deployed on the server from the master branch.
 
+### Purpose & Benefits of Code Reviews:
+***
+
+* Allows developers to detect bugs early in the code.
+* Improving code for better performance. Developers are able to identify 
+  areas where they can improve their code. Members can learn code optimisation
+  techniques from each other that can help them write clean code.
+* Code reviews is a coding standards compliance. 
+  It allows developers to maintain consistent coding style.
+* Enables everyone to teach and share information and knowledge. 
+  Team members are able to gain a better understanding of the code 
+  base and learn from each other during reviews.
+* Consistent design and implementation. 
+  Code reviews helps us maintain a level of consistency in 
+  software design and implementation.
+* Team solidarity. Team members are able to bond and become closer 
+  to each other when they review and discuss each other's code. 
+  Allows them to become more comfortable with each other and the code they produce.
+
 #### References
 
 ***
 [Why code reviews matter ](https://www.atlassian.com/agile/software-development/code-reviews)
 
 [Gabriel Cliseru - Senior QA](https://github.com/settlersxp) on [deindeal](https://www.deindeal.ch/)
+
+[Understanding Code Review and its Benefits](https://www.browserstack.com/guide/code-review-benefits)
