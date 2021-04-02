@@ -1,6 +1,6 @@
 # Some extra Guidelines for Code Reviews
 
-When we review code, we should look at it as a process that can be continually improved rather than a set of commandments. With that in mind we have some extra guidelines that people should be aware of when making reviews.
+When we review code, we should look at it as a process that can be continually improved rather than a set of unchanging commandments. With that in mind we have some extra guidelines that people should be aware of when making reviews.
 
 ## Tone of review
 Maintain a professional tone and keep any comments constructive and related to the code; 'Play the ball, not the person'. Give comments that include suggestions rather than saying something like 'this is incorrect'. When reviewing, avoid having the mindset of it's wrong because it's not the way I would do it; instead try to review the code on whether it is correct.
