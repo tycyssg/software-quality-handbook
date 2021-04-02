@@ -119,11 +119,10 @@ How to write clean code? | Shubham Gupta |[Article Link](https://medium.com/mind
 Coding Standards and Conventions in Software Development Teams| Prince Sengayire |[Article Link]( https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
 ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS | Automation Panda | [Article link](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
 Gitflow Workflow | Atlassian | [Tutorial Link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20the%20release%20branch%20is,to%20both%20develop%20and%20master)
+Code Formatting Guide | Nick Schäferhoff | [Article Link](https://torquemag.io/2019/07/code-formatting-guide/)
+Java Style Guide | Google | [Article Link](https://google.github.io/styleguide/javaguide.html#s4-formatting)
+Code Formatting Patterns | Cunningham & Cunningham, Inc. | [Article Link](http://c2.com/ppr/formatting.html#6)
+Naming Conventions | Wikipedia | [Article Link](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
 
-
-* [Code Formatting Guide](https://torquemag.io/2019/07/code-formatting-guide/)
-* [Java Style Guide](https://google.github.io/styleguide/javaguide.html#s4-formatting)
-* [Code Formatting Patterns](http://c2.com/ppr/formatting.html#6)
-* [Naming Conventions](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
 
 
