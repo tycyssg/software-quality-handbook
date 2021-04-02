@@ -1,4 +1,3 @@
-# software-quality-handbook
 # Coding Standards
 
 Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
