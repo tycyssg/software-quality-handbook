@@ -36,6 +36,8 @@ Tasks to complete project and their order
 
 Clearer communication at the beginning would have made things easier.
 
+Ensure that a feature branch is definitely merged into the topic branch before merging to dev.
+
 ## References
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
