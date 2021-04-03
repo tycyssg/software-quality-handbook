@@ -1,4 +1,5 @@
-# Introduction
+# <center>Software Quality Guidebook</center>
+## Introduction
 The purpose of this handbook is to provide a resource that people can reference for the following topics: 
 
 -	Task estimation in Scrum
@@ -6,7 +7,7 @@ The purpose of this handbook is to provide a resource that people can reference 
 -	Code reviews
 
 ### Content
-
+***
 - Task Estimation in Scrum
 	- Introduction
 	- How it is done
@@ -28,7 +29,7 @@ The purpose of this handbook is to provide a resource that people can reference 
 
 
 ### Task estimation in Scrum
-#### Intro
+#### Introduction
 ***
 Task estimation is a team sport. Everyone (developers, designers, testers, management people) from
 the team has to be involved, it is the key to succeed in one of the difficult aspects of the job.
@@ -149,22 +150,22 @@ In sizing, the team does an analysis between the different stories for the proje
 
 [source: https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya](https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya)
 
-# Coding Standards
+### Coding Standards
 
 Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
 
-### Importance of Coding Standards
+#### Importance of Coding Standards
 
 Without coding standards, every individual in a team will use their own coding styles. 
 It will not be easy to maintain and will be difficult to debug the code.
 
-## Formatting
+#### Formatting
 
 Code formatting allows programmers to vaguely convey what their code intends to do. 
 Code formatting is often a programmer's reader's first encounter with their system. 
 It deserves attention and care.
 
-### Components That Affect Code Formatting:
+#### Components That Affect Code Formatting:
 
 * Quick Readability: The reader should be able to understand the gross structure of the code in a glimpse. 
   The shapes made by blocks of text help you communicate the overall structure.
@@ -176,7 +177,7 @@ It deserves attention and care.
 * Width: The width of code must be minimized. Code must not ordinarily spill across the right margin, 
   requiring horizontal scrolling or destroying the shape of the text with line wrapping.
 
-### Essential Parts of Code Formatting
+#### Essential Parts of Code Formatting
 
 Conventions have been made to make sure code is as understandable as possible. 
 This helps avoid errors, troubleshoot problems and makes maintaining someone else’s (or even your own) work much easier.
@@ -190,12 +191,12 @@ Yet, all of them basically revolve around the following:
 4. Style and spelling of functions, variables and more
 5. Use and style of comments
 
-## Naming Conventions
+#### Naming Conventions
 
  A naming convention is a set of rules for choosing the character sequence to be used for identifiers 
  which represent variables, types, functions, and other entities in source code and documentation.
 
-### Significance of Naming Conventions
+#### Significance of Naming Conventions
 
 It is important for programmers to utilise and agree on naming conventions instead of allowing everyone
 to choose any character sequence.
@@ -206,7 +207,7 @@ The following are reasons why:
 * To enable code reviews to focus on more important issues than arguing over syntax and naming standards.
 * To enable code quality review tools to focus their reporting mainly on significant issues other than syntax and style preferences.
 
-### Potential Benefits 
+#### Potential Benefits 
 
 Some of the potential benefits that can be obtained include the following:
 
@@ -217,22 +218,22 @@ Some of the potential benefits that can be obtained include the following:
 * to provide meaningful data to be used in project handovers which require submission of program source code and all relevant documentation;
 * to provide better understanding in case of code reuse after a long interval of time.
 
-## Version Control
+#### Version Control
 * For each new task, a feature branch should be checked out from the development branch.
 * The new branch name should be based off the task e.g. task is check correct email input, branch name could be check-email-input.
 * Pull requests require at least two approvals before merge.
 * Click [here](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) for a Git command cheat sheet
 
-## Comments
+#### Comments
 For comments, we subscribe to the idea that if the code should be explanatory. If it needs comments, then it is poorly thought out either in terms of naming or the code itself being overly complicated so it cannot be easily understood.
 
 Commented out code should never be allowed be part of the code. If it's commented out; it should not be there.
 
-## Classes and Functions
-### Classes
+### Classes and Functions
+#### Classes
 Try to maintain small classes, ensuring that they have one responsibility rather than creating a "God class".
 
-### Functions
+#### Functions
 Functions should be short and have a singular purpose. We strive to make sure that:
 > **Functions should do one thing. They should do it well. They should do it only.**
 > Robert C Martin - Clean Code
@@ -240,7 +241,7 @@ Functions should be short and have a singular purpose. We strive to make sure th
 Avoid excessive number of arguments in your functions. Try to ensure there are no side effects.
 Follow the 'don't repeat yourself' principle (DRY). Duplication bloats code and is inefficient.
 
-## Testing
+#### Testing
 For any changes code or new code, write unit tests! For testing we use the Arrange-Act-Assert pattern:
 ```
      @Test                                               
@@ -256,7 +257,7 @@ For any changes code or new code, write unit tests! For testing we use the Arran
 Although this example is in Java, unit tests in other languages should follow this pattern.
 While the comments contradict the earlier instructions, they are for demonstrative purposes only!
 
-### References
+#### References
 Title | Author | Link
 ------------ | ------------- | -------------
 Clean Code | Robert C Martin | [Authors Website](http://cleancoder.com/products)
@@ -272,7 +273,7 @@ Naming Conventions | Wikipedia | [Article Link](https://en.wikipedia.org/wiki/Na
 
 
 
-## Code Reviews
+### Code Reviews
 #### Intro
 ***
 
@@ -321,7 +322,7 @@ If everything is ok on the staging server, the package is merged into master, th
 the "package code" is deployed on the server from the master branch.
 
 
-### Some extra Guidelines for Code Reviews
+#### Some extra Guidelines for Code Reviews
 
 When we review code, we should look at it as a process that can be continually improved rather than a set of unchanging commandments. With that in mind we have some extra guidelines that people should be aware of when making reviews.
 
@@ -339,7 +340,7 @@ Don't take someone not approving your PR or suggesting changes as a personal att
 
 Code reviews should not be a daunting prospect but an opportunity to gain valuable feedback and improve your performance.
 
-### Purpose & Benefits of Code Reviews:
+#### Purpose & Benefits of Code Reviews:
 ***
 
 * Allows developers to detect bugs early in the code.
