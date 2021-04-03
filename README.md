@@ -128,45 +128,42 @@ In sizing, the team does an analysis between the different stories for the proje
 
 #### References
 ***
-[Story points and estimation](https://www.atlassian.com/agile/project-management/estimation)
+Title | Link
+------------ | -------------
+User Stories with Examples and Template |  [Article Link](https://www.atlassian.com/agile/project-management/user-stories#:~:text=A%20user%20story%20is%20the,work%20in%20an%20agile%20framework.&text=Stories%20fit%20neatly%20into%20agile,run%20them%20through%20their%20workflow)
 
-[User Stories with Examples and Template](https://www.atlassian.com/agile/project-management/user-stories#:~:text=A%20user%20story%20is%20the,work%20in%20an%20agile%20framework.&text=Stories%20fit%20neatly%20into%20agile,run%20them%20through%20their%20workflow)
+The Difference Between a Story and a Task |  [Article Link](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task#:~:text=A%20story%20is%20something%20that,on%20by%20just%20one%20person.&text=A%20task%2C%20on%20the%20other,things%20done%20by%20one%20person)
 
-[The Difference Between a Story and a Task](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task#:~:text=A%20story%20is%20something%20that,on%20by%20just%20one%20person.&text=A%20task%2C%20on%20the%20other,things%20done%20by%20one%20person)
+Agile Planning and Estimation |  [Article Link](https://www.oreilly.com/library/view/head-first-agile/9781491944684/ch04.html)
 
-[Agile Planning and Estimation](https://www.oreilly.com/library/view/head-first-agile/9781491944684/ch04.html)
+Gabriel Cliseru - Senior QA |  [Article Link](https://github.com/settlersxp) [deindeal](https://www.deindeal.ch/)
 
-[Gabriel Cliseru - Senior QA](https://github.com/settlersxp) on [deindeal](https://www.deindeal.ch/)
+A beginners guide to agile estimation and planning | [Article Link](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
 
-[source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
+Agile Estimation Challenges | [Article Link](https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199)
 
-[source: https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199](https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199)
+Why estimate in Scrum | [Article Link](https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501)
 
-[source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
+Why your agile teams are bad at estimation | [Article Link](https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya)
 
-[source: https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning](http://www.agilebuddha.com/agile/agile-estimation-8-steps-to-successful-story-point-estimation/)
-
-[source: https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501](https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501)
-
-[source: https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya](https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya)
 
 ### Coding Standards
-
+***
 Coding standards are collections of rules and guidelines that determine the programming style, procedures, and methods for a programming language.
 
 #### Importance of Coding Standards
-
+***
 Without coding standards, every individual in a team will use their own coding styles. 
 It will not be easy to maintain and will be difficult to debug the code.
 
 #### Formatting
-
+***
 Code formatting allows programmers to vaguely convey what their code intends to do. 
 Code formatting is often a programmer's reader's first encounter with their system. 
 It deserves attention and care.
 
 #### Components That Affect Code Formatting:
-
+***
 * Quick Readability: The reader should be able to understand the gross structure of the code in a glimpse. 
   The shapes made by blocks of text help you communicate the overall structure.
 
@@ -178,7 +175,7 @@ It deserves attention and care.
   requiring horizontal scrolling or destroying the shape of the text with line wrapping.
 
 #### Essential Parts of Code Formatting
-
+***
 Conventions have been made to make sure code is as understandable as possible. 
 This helps avoid errors, troubleshoot problems and makes maintaining someone else’s (or even your own) work much easier.
 
@@ -192,12 +189,12 @@ Yet, all of them basically revolve around the following:
 5. Use and style of comments
 
 #### Naming Conventions
-
+***
  A naming convention is a set of rules for choosing the character sequence to be used for identifiers 
  which represent variables, types, functions, and other entities in source code and documentation.
 
 #### Significance of Naming Conventions
-
+***
 It is important for programmers to utilise and agree on naming conventions instead of allowing everyone
 to choose any character sequence.
 
@@ -208,7 +205,7 @@ The following are reasons why:
 * To enable code quality review tools to focus their reporting mainly on significant issues other than syntax and style preferences.
 
 #### Potential Benefits 
-
+***
 Some of the potential benefits that can be obtained include the following:
 
 * to help formalise expectations and encourage consistency within a development team;
@@ -219,21 +216,26 @@ Some of the potential benefits that can be obtained include the following:
 * to provide better understanding in case of code reuse after a long interval of time.
 
 #### Version Control
+***
 * For each new task, a feature branch should be checked out from the development branch.
 * The new branch name should be based off the task e.g. task is check correct email input, branch name could be check-email-input.
 * Pull requests require at least two approvals before merge.
 * Click [here](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) for a Git command cheat sheet
 
 #### Comments
+***
 For comments, we subscribe to the idea that if the code should be explanatory. If it needs comments, then it is poorly thought out either in terms of naming or the code itself being overly complicated so it cannot be easily understood.
 
 Commented out code should never be allowed be part of the code. If it's commented out; it should not be there.
 
 ### Classes and Functions
+***
 #### Classes
+***
 Try to maintain small classes, ensuring that they have one responsibility rather than creating a "God class".
 
 #### Functions
+***
 Functions should be short and have a singular purpose. We strive to make sure that:
 > **Functions should do one thing. They should do it well. They should do it only.**
 > Robert C Martin - Clean Code
@@ -242,6 +244,7 @@ Avoid excessive number of arguments in your functions. Try to ensure there are n
 Follow the 'don't repeat yourself' principle (DRY). Duplication bloats code and is inefficient.
 
 #### Testing
+***
 For any changes code or new code, write unit tests! For testing we use the Arrange-Act-Assert pattern:
 ```
      @Test                                               
@@ -258,18 +261,19 @@ Although this example is in Java, unit tests in other languages should follow th
 While the comments contradict the earlier instructions, they are for demonstrative purposes only!
 
 #### References
-Title | Author | Link
------------- | ------------- | -------------
-Clean Code | Robert C Martin | [Authors Website](http://cleancoder.com/products)
-7 key coding practices for agile developers | Isaac Sacolick | [Article Link](https://www.infoworldcom/article/3446439/7-key-coding-practices-for-agile-developers.html)
-How to write clean code? | Shubham Gupta |[Article Link](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
+***
+Title | Link
+------------ | -------------
+Clean Code  | [Authors Website](http://cleancoder.com/products)
+7 key coding practices for agile developers | [Article Link](https://www.infoworldcom/article/3446439/7-key-coding-practices-for-agile-developers.html)
+How to write clean code? | [Article Link](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
 Coding Standards and Conventions in Software Development Teams| Prince Sengayire |[Article Link]( https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
-ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS | Automation Panda | [Article link](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
-Gitflow Workflow | Atlassian | [Tutorial Link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20the%20release%20branch%20is,to%20both%20develop%20and%20master)
-Code Formatting Guide | Nick Schäferhoff | [Article Link](https://torquemag.io/2019/07/code-formatting-guide/)
-Java Style Guide | Google | [Article Link](https://google.github.io/styleguide/javaguide.html#s4-formatting)
-Code Formatting Patterns | Cunningham & Cunningham, Inc. | [Article Link](http://c2.com/ppr/formatting.html#6)
-Naming Conventions | Wikipedia | [Article Link](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
+ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS |  [Article link](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
+Gitflow Workflow | [Tutorial Link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20the%20release%20branch%20is,to%20both%20develop%20and%20master)
+Code Formatting Guide | [Article Link](https://torquemag.io/2019/07/code-formatting-guide/)
+Java Style Guide |  [Article Link](https://google.github.io/styleguide/javaguide.html#s4-formatting)
+Code Formatting Patterns |  [Article Link](http://c2.com/ppr/formatting.html#6)
+Naming Conventions | [Article Link](https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=In%20computer%20programming%2C%20a%20naming,in%20source%20code%20and%20documentation)
 
 
 
@@ -323,18 +327,21 @@ the "package code" is deployed on the server from the master branch.
 
 
 #### Some extra Guidelines for Code Reviews
-
+***
 When we review code, we should look at it as a process that can be continually improved rather than a set of unchanging commandments. With that in mind we have some extra guidelines that people should be aware of when making reviews.
 
 #### Tone of review
+***
 Maintain a professional tone and keep any comments constructive and related to the code; 'Play the ball, not the person'. Give comments that include suggestions rather than saying something like 'this is incorrect'. When reviewing, avoid having the mindset of it's wrong because it's not the way I would do it; instead try to review the code on whether it is correct.
 
 #### Reviewing new joiners code
+***
 Do not change the standard process outlined in the 'How does it work?' section above but be mindful that the person may
 not be aware of the coding standards or may be not be totally up to speed with the codebase. The above section is never
 more important than when reviewing a new joiners code.
 
 #### Your part as a Reviewee
+***
 Don't take someone not approving your PR or suggesting changes as a personal attack. It's part of the process of software development and it helps everyone learn, improve, makes for a more open team culture and ensures quality code: 
 > "**The biggest thing that makes Google’s code so good is simple: code review.**" Mark Chu-Carroll
 
@@ -360,13 +367,14 @@ Code reviews should not be a daunting prospect but an opportunity to gain valuab
   Allows them to become more comfortable with each other and the code they produce.
 
 #### References
-Title | Author | Link
+***
+Title | Link
 ------------ | ------------- | -------------
-How to Make Good Code Reviews Better | Gergely Orosz | [Article Link](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
+How to Make Good Code Reviews Better |  [Article Link](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 Lessons from Google: How code reviews build company culture | Bruce Johnson | [Article Link](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
-Things Everyone Should Do: Code Review | Mark Chu-Carroll| [Article Link](http://www.goodmath.org/blog/2011/07/06/things-everyone-should-do-code-review/)
-The value of code reviews in an engineering team | John Doran | [Article Link](https://nothingventured.rocks/the-value-of-code-reviews-in-an-engineering-team-ab1482d26717)
-Why code reviews matter (and actually save time!) | Dan Radigan | [Why code reviews matter ](https://www.atlassian.com/agile/software-development/code-reviews)
-Personal experience about Code Review | Gabriel Cliseru | [Gabriel Cliseru - Senior QA](https://github.com/settlersxp) on [deindeal](https://www.deindeal.ch/)
-Understanding Code Review and its Benefits |  Jash Unadkat | [Article Link](https://www.browserstack.com/guide/code-review-benefits)
+Things Everyone Should Do: Code Review |  [Article Link](http://www.goodmath.org/blog/2011/07/06/things-everyone-should-do-code-review/)
+The value of code reviews in an engineering team |  [Article Link](https://nothingventured.rocks/the-value-of-code-reviews-in-an-engineering-team-ab1482d26717)
+Why code reviews matter (and actually save time!) |  [Why code reviews matter ](https://www.atlassian.com/agile/software-development/code-reviews)
+Personal experience about Code Review |  [Gabriel Cliseru - Senior QA](https://github.com/settlersxp) on [deindeal](https://www.deindeal.ch/)
+Understanding Code Review and its Benefits | [Article Link](https://www.browserstack.com/guide/code-review-benefits)
 
