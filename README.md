@@ -1,4 +1,4 @@
-### Task estimation in Scrum with Relative Estimation
+### Task estimation in Scrum
 
 &nbsp;
 
