@@ -369,7 +369,7 @@ Code reviews should not be a daunting prospect but an opportunity to gain valuab
 #### References
 ***
 Title | Link
------------- | ------------- | -------------
+------------ | -------------
 How to Make Good Code Reviews Better |  [Article Link](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
 Lessons from Google: How code reviews build company culture | Bruce Johnson | [Article Link](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
 Things Everyone Should Do: Code Review |  [Article Link](http://www.goodmath.org/blog/2011/07/06/things-everyone-should-do-code-review/)
