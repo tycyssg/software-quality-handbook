@@ -21,9 +21,9 @@ The purpose of this handbook is to provide a resource that people can reference 
 	- Testing
 
 - Code Reviews
-- Introduction
-- What is a code review?
-- How does is work?
-- Extra Guidelines
+    - Introduction
+    - What is a code review?
+    - How does is work?
+    - Extra Guidelines
 
 
