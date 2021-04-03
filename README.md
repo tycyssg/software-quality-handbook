@@ -67,10 +67,6 @@ Some of the potential benefits that can be obtained include the following:
 * to provide meaningful data to be used in project handovers which require submission of program source code and all relevant documentation;
 * to provide better understanding in case of code reuse after a long interval of time.
 
-## References
-
-
-
 ## Version Control
 * For each new task, a feature branch should be checked out from the development branch.
 * The new branch name should be based off the task e.g. task is check correct email input, branch name could be check-email-input.
