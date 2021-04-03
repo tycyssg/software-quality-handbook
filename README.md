@@ -131,19 +131,12 @@ In sizing, the team does an analysis between the different stories for the proje
 Title | Link
 ------------ | -------------
 User Stories with Examples and Template |  [Article Link](https://www.atlassian.com/agile/project-management/user-stories#:~:text=A%20user%20story%20is%20the,work%20in%20an%20agile%20framework.&text=Stories%20fit%20neatly%20into%20agile,run%20them%20through%20their%20workflow)
-
 The Difference Between a Story and a Task |  [Article Link](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task#:~:text=A%20story%20is%20something%20that,on%20by%20just%20one%20person.&text=A%20task%2C%20on%20the%20other,things%20done%20by%20one%20person)
-
 Agile Planning and Estimation |  [Article Link](https://www.oreilly.com/library/view/head-first-agile/9781491944684/ch04.html)
-
 Gabriel Cliseru - Senior QA |  [Article Link](https://github.com/settlersxp) [deindeal](https://www.deindeal.ch/)
-
 A beginners guide to agile estimation and planning | [Article Link](https://endjin.com/blog/2019/02/a-beginners-guide-to-agile-estimation-and-planning)
-
 Agile Estimation Challenges | [Article Link](https://blog.valuemotive.com/agile-estimation-challenges-636184e8b199)
-
 Why estimate in Scrum | [Article Link](https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501)
-
 Why your agile teams are bad at estimation | [Article Link](https://www.linkedin.com/pulse/why-your-agile-teams-bad-estimation-heidi-araya)
 
 
@@ -229,7 +222,6 @@ For comments, we subscribe to the idea that if the code should be explanatory. I
 Commented out code should never be allowed be part of the code. If it's commented out; it should not be there.
 
 ### Classes and Functions
-***
 #### Classes
 ***
 Try to maintain small classes, ensuring that they have one responsibility rather than creating a "God class".
@@ -267,7 +259,7 @@ Title | Link
 Clean Code  | [Authors Website](http://cleancoder.com/products)
 7 key coding practices for agile developers | [Article Link](https://www.infoworldcom/article/3446439/7-key-coding-practices-for-agile-developers.html)
 How to write clean code? | [Article Link](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
-Coding Standards and Conventions in Software Development Teams| Prince Sengayire |[Article Link]( https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
+Coding Standards and Conventions in Software Development Teams| [Article Link]( https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05#:~:text=Coding%20standards%20are%20collections%20of,methods%20for%20a%20programming%20language.&text=Without%20the%20coding%20conventions%2C%20every,code%20in%20the%20near%20future.)
 ARRANGE-ACT-ASSERT: A PATTERN FOR WRITING GOOD TESTS |  [Article link](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
 Gitflow Workflow | [Tutorial Link](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=The%20overall%20flow%20of%20Gitflow,branch%20is%20created%20from%20master&text=When%20the%20release%20branch%20is,to%20both%20develop%20and%20master)
 Code Formatting Guide | [Article Link](https://torquemag.io/2019/07/code-formatting-guide/)
@@ -371,7 +363,7 @@ Code reviews should not be a daunting prospect but an opportunity to gain valuab
 Title | Link
 ------------ | -------------
 How to Make Good Code Reviews Better |  [Article Link](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
-Lessons from Google: How code reviews build company culture | Bruce Johnson | [Article Link](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
+Lessons from Google: How code reviews build company culture | [Article Link](https://www.fullstory.com/blog/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs)
 Things Everyone Should Do: Code Review |  [Article Link](http://www.goodmath.org/blog/2011/07/06/things-everyone-should-do-code-review/)
 The value of code reviews in an engineering team |  [Article Link](https://nothingventured.rocks/the-value-of-code-reviews-in-an-engineering-team-ab1482d26717)
 Why code reviews matter (and actually save time!) |  [Why code reviews matter ](https://www.atlassian.com/agile/software-development/code-reviews)
