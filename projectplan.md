@@ -35,3 +35,7 @@ Tasks to complete project and their order
 ## What would we do differently?
 
 Clearer communication at the beginning would have made things easier.
+
+## References
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
